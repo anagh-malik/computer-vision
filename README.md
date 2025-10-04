@@ -1,6 +1,5 @@
 # THE GUIDE
-## Run this command - `pip install opencv-python mediapipe ultralytics
-`
+## Run this command - pip install opencv-python mediapipe ultralytics
 # The "Tools" You Need
 ## import cv2: 
 - This line brings in a powerful library called OpenCV, which is like a toolbox for working with pictures and videos.
@@ -110,4 +109,5 @@ This line tells your computer to turn off the camera.
 
 ## cv2.destroyAllWindows(): 
 This line closes the window that was showing you the photos. The program is now finished.
+
 
